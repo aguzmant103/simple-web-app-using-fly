@@ -6,6 +6,7 @@ public class HomePage {
                 <body>
                 <h1>Answers questions</h1>
                 <p>This is a minimal web app for a lab</p>
+                <p>Edited by Andy</p>
                 </body>
             </html>""".trim();
 }
